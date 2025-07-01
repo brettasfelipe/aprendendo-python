@@ -23,6 +23,7 @@ Este repositório contém alguns **exercícios avulsos** que eu resolvi desde qu
 - Strings e métodos de Strings
 - Listas
 - Dicionários e Tuplas
+- Recursividade 
 
 ---
 <br>
