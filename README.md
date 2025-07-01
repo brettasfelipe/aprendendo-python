@@ -7,7 +7,7 @@ Este repositório contém alguns **exercícios avulsos** que eu resolvi desde qu
 ## ⚠️ Avisos:
 - Os arquivos não possuem os enunciados originais.
 - Aqui está apenas o aprendizado base da linguagem, outros repositórios possuem projetos aplicados.
-- O objetivo desse repositório é documentar meu aprendizado da linguagem.
+- O objetivo desse repositório é documentar meu aprendizado da linguagem, sendo assim, possui exercícios que fiz quando iniciei na linguagem (e na lógica de programação), sendo assim possível ver a evolução ao decorrer do tempo.
 - Ao longo do tempo, sempre que possível, vou revisar os exercícios para adicionar comentários e enunciados.
 - Todos os códigos funcionam e já foram testados.
 
